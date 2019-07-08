@@ -1,4 +1,4 @@
-# Airbnb
+# Airbnb-copycat
 
 ## Synopsis
 
@@ -38,10 +38,17 @@ npm start
 - Gifted chat
 
 ## Built With
-Expo CLI
-React native
 
-# AirBnB-copycat
+- Expo CLI
+- React native
+
+## Supports 
+
+- If you liked my work, feel free to encourage me to continue coding by leaving me a star.
+- Feel free to contribute to this project if you have any additions/corrections to make. 
+
+
+# Airbnb-copycat
 
 
 
