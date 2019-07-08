@@ -6,7 +6,7 @@ This project is a copycat ( built with React Native - Expo CLI) of the AirBnB ap
 
 ## Demo
 
-See Demo: https://expo.io/@/nizar-mrad-airbnb-copycat
+See Demo: https://expo.io/@nizarmrad/airbnb-copycat
 
 ## Install the project 
 
