@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "airbnb-lereacteur",
-    "slug": "Airbnb",
+    "slug": "nizar-mrad-airbnb-copycat",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "This project is a copycat ( built with React Native - Expo CLI) of the AirBnB app that i made during my \"bootcamp\" at \"Le Réacteur\".",
+    "githubUrl": "https://github.com/NizarMrad/Airbnb.git"
   }
 }
