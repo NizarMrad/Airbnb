@@ -12,17 +12,22 @@ See Demo: https://expo.io/@/nizar-mrad-airbnb-copycat
 
 Clone this repository : 
 
+```
 git clone https://github.com/NizarMrad/Airbnb.git
 cd Airbnb
+```
 
 Install packages : 
 
+```
 npm install 
+```
 
 Run the project : 
 
+```
 npm start
-
+```
 ## Features
 
 - Sign-up <br>
